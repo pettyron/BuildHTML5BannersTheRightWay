@@ -1,0 +1,24 @@
+{
+  "name": "build_html5_banners_the_right_way",
+  "version": "1.0.0",
+  "description": "This is the home page for the book Build HTML5 Banners the Right Way",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pettyron/BuildHTML5BannersTheRightWay.git"
+  },
+  "keywords": [
+    "e-book",
+    "banners",
+    "html5"
+  ],
+  "author": "Ronnie Petty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pettyron/BuildHTML5BannersTheRightWay/issues"
+  },
+  "homepage": "https://github.com/pettyron/BuildHTML5BannersTheRightWay#readme"
+}
